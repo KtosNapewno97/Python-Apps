@@ -1,4 +1,4 @@
-# Python Apps 🐍
+# Python and PyInstaller EXE Apps 🐍
 
 > A massive, evolving collection of Python applications, experiments, games, tools, and ideas.
 
