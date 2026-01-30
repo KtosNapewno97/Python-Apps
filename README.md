@@ -187,4 +187,14 @@ If you find something broken — even better.
 
 That means progress is happening.
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📦 EXE Applications
+
+Some of the Python applications in this repository are packaged as standalone executables using [PyInstaller](https://www.pyinstaller.org/).  
+**Note:** These EXE files are **only compatible with Windows** and **do not run on Linux or macOS**.
+
+### How to run
+- On Windows, double-click the `.exe` file
+- No support for Linux or macOS
+
