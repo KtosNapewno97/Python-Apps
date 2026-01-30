@@ -66,30 +66,6 @@ Each folder is mostly independent.
 
 ---
 
-## 🕹 Games
-
-Games are a big part of this repository because they combine:
-
-- Logic
-- Math
-- State management
-- Rendering
-- User input
-
-### Example Game Categories
-
-- **Arcade-style games**
-- **AI-controlled opponents**
-- **Physics-based simulations**
-- **Turn-based logic games**
-
-Games may use:
-
-- `pygame`
-- `tkinter`
-- console-based rendering
-- or experimental engines
-
 ---
 
 ## 🛠 Tools & Utilities
