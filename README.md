@@ -195,6 +195,6 @@ Some of the Python applications in this repository are packaged as standalone ex
 **Note:** These EXE files are **only compatible with Windows** and **do not run on Linux or macOS**.
 
 ### How to run
-- On Windows, double-click the `.exe` file
+- On Windows, double-click the .exe file
 - No support for Linux or macOS
 
